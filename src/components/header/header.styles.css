@@ -1,0 +1,25 @@
+#navbar {
+	background-color: rgba(0, 0, 0, 0.95);
+	padding: 10px 0px;
+}
+
+#navbar .nav-link {
+	padding: 10px 15px;
+	transition: all .1s;
+	color: #fff;
+	margin: 0px 4px;
+	border-radius: 5px;
+	text-align: center;
+}
+
+#navbar .dropdown-menu {
+	padding: 20px;
+	background-color: #f1f1f1;
+}
+
+@media (max-width: 736px) {
+	#navbar {
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+}

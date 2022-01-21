@@ -1,0 +1,37 @@
+.news-container {
+	background-color: #fff;
+}
+
+.news-container:hover .image {
+	transform: scale(1.1);
+}
+
+.news-container .image-container {
+	height: 300px;
+	width: 100%;
+	overflow: hidden;
+}
+
+.news-container .image {
+	height: 100%;
+	width: 100%;
+	transition: all .3s;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.news-container .summary-container {
+    padding: 40px 20px;
+    box-shadow: 0px 3px 20px #333;
+    margin-bottom: 25px;
+    height: 360px;
+    overflow: auto;
+}
+
+.news-container .title {
+	font-size: 22px;
+	font-weight: 600;
+	margin-bottom: 15px;
+	color: #000;
+}

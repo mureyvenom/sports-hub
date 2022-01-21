@@ -1,0 +1,15 @@
+.btn1 {
+	padding: 14px 25px;
+	width: 40%;
+	border: none;
+	background-color: #000;
+	color: #fff;
+	margin-top: 50px;
+	transition: all .3s;
+	font-weight: 600;
+}
+
+#home_banner .btn1:hover {
+	background-color: #fff;
+	color: #000;
+}

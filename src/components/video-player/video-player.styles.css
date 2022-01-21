@@ -1,0 +1,15 @@
+.video_container {
+	padding: 15px 0px;
+}
+
+.video_container video {
+    background-color: #ccc;
+}
+
+.video_container .title {
+	font-size: 20x;
+	padding: 12px 5px;
+	background-color: rgba(0, 0, 0, 0.5);
+	margin: 0px;
+	color: #fff;
+}

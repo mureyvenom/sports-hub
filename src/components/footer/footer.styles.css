@@ -1,0 +1,19 @@
+#footer {
+    color: #fff;
+    padding-top: 50px;
+    padding-bottom: 90px;
+}
+  
+#footer .ft-link {
+    color: #fff;
+}
+
+#footer .footer-link {
+    margin-bottom: 12px;
+}
+
+#footer .footer-fa {
+    font-size: 2em;
+    margin-right: 5px;
+    font-weight: 400;
+}

@@ -1,0 +1,6 @@
+.formfield {
+    border: 1px solid #222;
+	height: 50px;
+	width: 100%;
+	padding: 5px 15px;
+}

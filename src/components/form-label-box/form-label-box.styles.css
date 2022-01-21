@@ -1,0 +1,11 @@
+.form-label-box {
+	height: 50px;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	background-color: #222;
+	color: #fff;
+	font-size: 20px;
+    text-align: center;
+    align-items: center;
+}

@@ -1,0 +1,37 @@
+.highlight-container {
+	background-color: #fff;
+}
+
+.highlight-container:hover .image {
+	transform: scale(1.1);
+}
+
+.highlight-container .image-container {
+	height: 300px;
+	width: 100%;
+	overflow: hidden;
+}
+
+.highlight-container .image {
+	height: 100%;
+	width: 100%;
+	transition: all .3s;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.highlight-container .summary-container {
+    padding: 40px 20px;
+    box-shadow: 0px 3px 20px #333;
+    margin-bottom: 25px;
+    height: 200px;
+    overflow: auto;
+}
+
+.highlight-container .title {
+	font-size: 22px;
+	font-weight: 600;
+	margin-bottom: 15px;
+	color: #000;
+}

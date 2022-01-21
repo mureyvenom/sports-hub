@@ -1,0 +1,28 @@
+.latest_scores {
+    text-align: center;
+}
+
+.latest_scores h4 {
+	margin-bottom: 20px;
+	font-size: 18px;
+	font-weight: 600;
+}
+
+.latest_scores .score_box {
+	height: 50px;
+	background-color: #fff;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.latest_scores .team_house {
+	height: 60px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	margin: 10px 0px;
+}
